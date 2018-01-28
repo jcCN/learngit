@@ -6,4 +6,5 @@ Creating a new branch is quick and simple.
 branch manage
 add yu branch
 test stash
-add /usr/bin/env/01
+add /usr/bin/env
+
